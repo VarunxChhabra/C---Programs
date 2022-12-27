@@ -1,0 +1,12 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 09 December 2022
+
+In the submission of this milestone, I found difficulties in starting when I start building the milestone because we need to submit the lab and the milestone at the same
+ time within the week however we have the extension for the milestone but it creates delays for that when I move to the milestone I consider it should be hard but in that
+ the milestone we just need to print the statement for that I feel very pumped and start working by putting all my hard work into the milestones to help me in doing the practice for
+ the virtual functions, inheritance, and templates which will help me in my final. However, I face difficulties in doing this project for which I refer to youtube to clear
+ the concepts and also refer to the provided notes which helped me in completing this final assessment I can proudly say that now concepts are clear about all the topics which
+ had been taught in the oop244 till now.

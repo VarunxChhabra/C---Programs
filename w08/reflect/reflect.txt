@@ -1,0 +1,11 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 21 November 2022
+
+In this workshop, we have learned about the usage of virtual functions with the inherited class which made us learn how we can
+simplify our code by using them just by implementing them in the code we have also learned about the abstract classes which were 
+part of the virtual functions. I found that this is a difficult topic for me it made me confuse every time whenever I tried to write 
+the code but with help of class examples and the notes I was able to build my workshop and milestone 2 was very easy I didn't find any
+difficulty in it all we have to do is create the functions which will print certain outputs.

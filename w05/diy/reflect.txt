@@ -1,0 +1,11 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 22 October 2022
+
+ In this workshop, I learned how to overload the operator function by using the operator word in the function and overload with
+ whichever operator that is needed and also how to to post and pre overloading the function.Also, the use of friend function
+that help in accessing the private member of the class.I face some diffculties in the doing this workshop that is of applying these
+function and understanding the need of the code but by doing the practice of the midterm the concepts became clear and also due to
+mid term i face time management issue in completing this workshops

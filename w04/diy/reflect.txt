@@ -1,0 +1,8 @@
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 10 October 2022
+
+
+In this workshop, we learn the use of constructor and destructor and the reference to the current object. 
+I didn't face any such difficulty in doing this DIY part. Moreover, I found it easy as compared to other workshops 

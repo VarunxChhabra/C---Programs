@@ -1,0 +1,11 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 05 December 2022
+
+In this workshop, we have learned about function templates and how to implement them in the code. With the use of templates, one can easily simplify the code Moreover, 
+it acts as a blueprint for creating generic functions or classes. I face no difficulty in doing the code as all things were already mentioned and I practice a lot for
+ templates as my professor told me in the class is the confirmed topic to come in finals. Talking about milestones recently i submitted my milestone 4 which took a lot
+ of time as we are completing this semester so we need to submit all the big assignments at the same time I can feel the burden of it but I feel it's okay as gold shines
+ more when it is heated more. However, I faced some conceptual difficulties in milestone 4 for which I referred to the notes.

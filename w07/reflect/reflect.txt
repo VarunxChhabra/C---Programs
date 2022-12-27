@@ -1,0 +1,12 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 14 November 2022
+
+In this workshop, we have learned about the inheritance of the class and how we can inherit the class from another
+ class and with the same similarities we can the parent class functions in the inherited class in this workshop 
+we were instructed to make two files one was the vehicle basic which contains all the information about the vehicle
+and another was the dumper which was inherited from the vehicle basics. The lab was similar to what the professor had
+told and showed the example in the class while milestone was the complete revision of what I have learned till now I faced some
+difficulties in milestones as well as in the lab for the syntax for which I referred to the notes provided by Seneca.

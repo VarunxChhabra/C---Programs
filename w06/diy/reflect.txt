@@ -1,0 +1,10 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 02 November 2022
+
+
+In this workshop, I learned about copy constructors and copy operators and how to do a shallow and deep copy
+and what's the difference between them.I faced some difficulties in doing the lab part not the diy part as
+most of the diy part have the same function as of lab for that I have to just copy it from the lab.

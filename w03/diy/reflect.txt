@@ -1,0 +1,10 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 03 October 2022
+
+In this workshop, I have learned how to use a class and the use of the public and private members for creating and 
+using the function basically this workshop helps me to get familiar with the classes. I faced some difficulties in
+understanding the workshop for which I had joined the session by professor Fardad and also my friends help me in doing 
+this workshop whenever I get stuck in creating the function they use to help me.

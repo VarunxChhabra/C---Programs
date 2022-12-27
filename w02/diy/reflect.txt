@@ -1,0 +1,13 @@
+
+   Name - Varun Chhabra
+   Email - vchhabra1@myseneca.ca
+   StudentID - 170279210
+   Date of Completion - 26 September 2022
+
+
+Ans - In this workshop, we have learned about the allocation and deallocation of dynamic memory. The most difficult part 
+      for me in this workshop is finding the memory leak when I was submitting it through matrix it didn't accept
+       my code due to memory leaks in the code. I try hard then I found that I forget to deallocate the memory 
+       for the report structure that was the most difficult part for me in the code as I was doing deallocation for
+       the structure only not for the structure variables then after I have seen the error i start doing it by using the loop just like lab 1 for workshop 2 
+       for the rest of the code I have taken references from the lab
